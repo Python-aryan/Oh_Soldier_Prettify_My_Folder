@@ -1,2 +1,3 @@
 # Oh_Soldier_Prettify_My_Folder
-Given in the form : path, dictionary file, format. Ex : def soldier("C://", "demo.txt", "jpg")
+This can rename all the files in a folder as per our needs and as per our filetype we can set properties and then use this programme as this can reduce human workload.
+
