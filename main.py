@@ -1,4 +1,4 @@
-print("Hello Welcome to My Programme [Oh soldier Prettify my Folder] \n"
+print("Hello Welcome to The Program [Oh soldier Prettify my Folder] \n"
 	            "Please Mention the Following things \n"
             "A Directory - from where we will find the folder\n"
             "A File- in which the names should be there containing the folder that you don't want to rename\n"
@@ -8,6 +8,6 @@ space = input()
 
 
 soldier(r"Directory\Folder\Subfolder\Sub-sub-subfolfer",
-        r"Directory\Folder\SubFolder\SubFolder\Sub Folder\demo.txt", ".png" )
+        r"Directory\Folder\SubFolder\SubFolder\Sub Folder\file.txt", ".png" )
 
-print("Your Task Was Completed")
+print("Your Task Was Completed AndRequired Chaged were made")
